@@ -12,5 +12,5 @@ We will be creating an large image model app with the help of streamlit and goog
 <li>google.generativeai
 <li>streamlit
 
-##API Used##
+**API Used**
 GOOGLE_API_KEY(gemini-pro-vision)
