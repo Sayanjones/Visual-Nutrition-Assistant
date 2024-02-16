@@ -1,4 +1,4 @@
-# Calorie_Advisor
+# Calorie_Advisor: Generative AI for Food Recognition and Calorie Estimation
 
 # Dataset Information
 A Nutritionist Generative AI Doctor Using Google Gemini Pro Vision.
