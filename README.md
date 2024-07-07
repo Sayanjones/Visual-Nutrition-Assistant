@@ -1,4 +1,4 @@
-# Your Dietary Health Advisor: Generative AI for Food Recognition and Calorie Estimation
+# Dietary Health Advisor: Generative AI for Food Recognition and Calorie Estimation
 
 # Dataset Information
 • Leveraged the power of Google Gemini Pro Vision to create a comprehensive image model application. Integrated the application seamlessly with Streamlit for an intuitive and user-friendly interface.
