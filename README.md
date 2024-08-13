@@ -8,10 +8,13 @@ To create and activate the environment, follow these steps:
 
 **1. Create a Conda Environment:**
    conda create -p venv python==3.10 -y
+<br>
 **2. Activate the Environment:**
    conda activate venv/
+<br>
 **3. Install Required Packages:**
    pip install -r requirements.txt
+<br>
 **4. Deactivate the Environment:**
    conda deactivate
 
