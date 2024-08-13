@@ -1,4 +1,4 @@
-# Dietary Health Advisor: Generative AI for Food Recognition and Calorie Estimation
+# Visual Nutrition Assistant: Gen AI for Food Recognition and Calorie Estimation
 
 ### Project Overview
 The Visual-Nutrition-Assistant is a Health Management App designed to help users analyze their food intake by uploading images of their meals. The app uses the Google Gemini Pro Vision API to calculate the total calories and provide detailed nutritional information for each food item in the image.
