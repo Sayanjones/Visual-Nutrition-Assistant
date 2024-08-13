@@ -18,7 +18,7 @@ To create and activate the environment, follow these steps:
 **4. Deactivate the Environment:**
    conda deactivate
 
-### The following packages are required for the project and are listed in the s ```requirements.txt``` file/ libraries:
+### The following packages are required for the project and are listed in the ```requirements.txt``` file/ libraries:
 
 <li>dotenv
 <li>os
