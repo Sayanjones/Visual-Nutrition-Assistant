@@ -22,7 +22,7 @@ To create and activate the environment, follow these steps:
 
 <li>dotenv
 <li>os
-<li>PIL
+<li>pillow
 <li>google-generativeai
 <li>streamlit
 
