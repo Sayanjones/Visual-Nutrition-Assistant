@@ -40,7 +40,7 @@ Click the "Tell me the total calories" button.
 <br>
 The app will display the total calories and detailed information about each food item.
 
-### Implementation
+### Implementation:
 The Visual-Nutrition-Assistant app is built using Python, Streamlit, and the Google Gemini Pro Vision API. Here’s a breakdown of the implementation:
 
 **Environment Setup:**
