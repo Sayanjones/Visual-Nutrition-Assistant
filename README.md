@@ -45,16 +45,12 @@ The Visual-Nutrition-Assistant app is built using Python, Streamlit, and the Goo
 
 **Environment Setup:**
 The project starts by setting up a virtual environment using Conda and installing all the necessary dependencies listed in the ```requirements.txt``` file.
-
 **API Configuration:**
 The Google Gemini Pro Vision API is configured to analyze images and generate content based on the input provided by the user.
-
 **Image Processing:**
 The app accepts image uploads from the user, processes the image data, and sends it to the API for analysis.
-
 **User Interface:**
 Streamlit is used to create a simple and intuitive user interface where users can input text prompts, upload images, and receive detailed nutritional information about the food items in the image.
-
 **Nutritional Analysis:**
 The app sends the image and prompts to the Google Gemini Pro Vision API, which returns a detailed analysis of the food items, including calorie counts.
 
