@@ -1,3 +1,4 @@
 1.conda create -p venv python==3.10 -y
 2.conda activate venv/
-3.
+3.conda deactivate
+4.pip install - r requirement.txt
