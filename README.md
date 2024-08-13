@@ -58,7 +58,7 @@ Streamlit is used to create a simple and intuitive user interface where users ca
 **Nutritional Analysis:**
 The app sends the image and prompts to the Google Gemini Pro Vision API, which returns a detailed analysis of the food items, including calorie counts.
 
-### Methodology
+### Methodology:
 The methodology behind the Visual Nutrition Assistant is as follows:
 
 **Data Input:** Users provide input by uploading an image of their meal and optionally entering a text prompt to guide the analysis.
@@ -77,7 +77,7 @@ The Visual Nutrition Assistant successfully provides users with an easy and effe
 ### Future Scope:
 There are several potential areas for the future development of the visual nutrition assistant:
 
-**Expanded Food Database:**Integrate with larger and more diverse food databases to provide even more accurate and comprehensive nutritional information.
+**Expanded Food Database:** Integrate with larger and more diverse food databases to provide even more accurate and comprehensive nutritional information.
 <br>
 **Multi-Language Support:** Add support for multiple languages to make the app accessible to a global audience.
 <br>
