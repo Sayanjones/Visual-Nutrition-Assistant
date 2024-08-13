@@ -18,13 +18,25 @@ To create and activate the environment, follow these steps:
 **4. Deactivate the Environment:**
    conda deactivate
 
-# Libraries
+### The following packages are required for the project and are listed in the s ``requirements.txt`` file/ libraries:
+
 <li>dotenv
 <li>os
 <li>PIL
-<li>google.generativeai
+<li>google-generativeai
 <li>streamlit
 
 **API Used:** 
 GOOGLE_API_KEY(gemini-pro-vision)
+
+### How to Use the App
+Run the Streamlit app.
+<br>
+Enter a text prompt if desired.
+<br>
+Upload an image of the food items.
+<br>
+Click the "Tell me the total calories" button.
+<br>
+The app will display the total calories and detailed information about each food item.
 
