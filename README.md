@@ -1,7 +1,3 @@
-Here's a polished documentation draft for your GitHub repository:  
-
----
-
 # **Visual Nutrition Assistant: Gen AI for Food Recognition and Calorie Estimation**
 
 ## **Project Overview**  
